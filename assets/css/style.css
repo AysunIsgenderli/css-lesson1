@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #618685;
+}
+#title {
+  color:  #667292;
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  background-color: #bccad6;
+  padding: 1rem;
+  margin-top: 0;
+}
+.content {
+  padding: 1rem;
+  color: #3e4444;
+  font-size: 1.5rem;
+  background: url(../img/41c1ae6ee52af8212f6e394e72eaa694.jpg) no-repeat fixed
+    right top;
+  border-left: 2px solid #b0aac0;
+}
+footer {
+  background-color: #bccad6;
+}
+footer p {
+  font-size: 20px;
+  padding: 15px;
+  color: #667292;
+  margin-top: 10px;
+}
